@@ -1,8 +1,8 @@
 {
 	"status": true,
 	"code": 200,
-	"data": [{
+	"data": {
 		"adIsShow": "false",
-		"adUrl": "https://m.ringbox.cn/m/00000741370811.html"
-	}]
+		"adUrl": "https://m.ringbox.cn/m/00000741360811.html"
+	}
 }
